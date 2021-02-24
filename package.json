@@ -1,0 +1,24 @@
+{
+  "name": "lmqflex",
+  "version": "1.0.0",
+  "description": "通过js自动适配移动端rem布局",
+  "main": "flexible.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "木子了前端",
+    "write"
+  ],
+  "files": [
+    "",
+    "",
+    ""
+  ],
+  "author": "木子聊前端",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
