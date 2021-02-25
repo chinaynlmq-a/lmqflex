@@ -1,6 +1,6 @@
 {
   "name": "lmqflex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "通过js自动适配移动端rem布局",
   "main": "flexible.js",
   "scripts": {
